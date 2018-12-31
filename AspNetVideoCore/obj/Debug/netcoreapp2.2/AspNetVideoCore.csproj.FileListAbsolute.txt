@@ -1,0 +1,14 @@
+E:\AspNetVideoCore\AspNetVideoCore\bin\Debug\netcoreapp2.2\AspNetVideoCore.deps.json
+E:\AspNetVideoCore\AspNetVideoCore\bin\Debug\netcoreapp2.2\AspNetVideoCore.runtimeconfig.json
+E:\AspNetVideoCore\AspNetVideoCore\bin\Debug\netcoreapp2.2\AspNetVideoCore.runtimeconfig.dev.json
+E:\AspNetVideoCore\AspNetVideoCore\bin\Debug\netcoreapp2.2\AspNetVideoCore.dll
+E:\AspNetVideoCore\AspNetVideoCore\bin\Debug\netcoreapp2.2\AspNetVideoCore.pdb
+E:\AspNetVideoCore\AspNetVideoCore\obj\Debug\netcoreapp2.2\AspNetVideoCore.csprojAssemblyReference.cache
+E:\AspNetVideoCore\AspNetVideoCore\obj\Debug\netcoreapp2.2\AspNetVideoCore.csproj.CoreCompileInputs.cache
+E:\AspNetVideoCore\AspNetVideoCore\obj\Debug\netcoreapp2.2\AspNetVideoCore.RazorAssemblyInfo.cache
+E:\AspNetVideoCore\AspNetVideoCore\obj\Debug\netcoreapp2.2\AspNetVideoCore.RazorAssemblyInfo.cs
+E:\AspNetVideoCore\AspNetVideoCore\obj\Debug\netcoreapp2.2\AspNetVideoCore.AssemblyInfoInputs.cache
+E:\AspNetVideoCore\AspNetVideoCore\obj\Debug\netcoreapp2.2\AspNetVideoCore.AssemblyInfo.cs
+E:\AspNetVideoCore\AspNetVideoCore\obj\Debug\netcoreapp2.2\AspNetVideoCore.RazorTargetAssemblyInfo.cache
+E:\AspNetVideoCore\AspNetVideoCore\obj\Debug\netcoreapp2.2\AspNetVideoCore.dll
+E:\AspNetVideoCore\AspNetVideoCore\obj\Debug\netcoreapp2.2\AspNetVideoCore.pdb
